@@ -7,8 +7,8 @@ import products.Products;
 
 /**
  *
- * @author Netshikhudini mpho
- student number 26042117
+ * @author Netshikhudini mpho 26042117
+
  */
 public class Main {
 
