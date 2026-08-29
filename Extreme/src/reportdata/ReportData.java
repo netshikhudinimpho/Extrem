@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author mphon
+ * @author Netshikhudini mpho 26042117
  */
 public class ReportData {
     public static void generateReport(ArrayList<Product> list){
