@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author mphon
+ * @author Netshikhudini mpho 26042117
  */
 public class Products {
     private ArrayList<Product> productList = new ArrayList<>();
