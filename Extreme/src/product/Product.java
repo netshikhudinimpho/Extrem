@@ -6,7 +6,7 @@ package product;
 
 /**
  *
- * @author mphon
+ * @author Netshikhudini mpho 26042117
  */
 public class Product {
     private String code;
